@@ -1,0 +1,12 @@
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\api.exe
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\appsettings.Development.json
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\appsettings.json
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\api.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\api.deps.json
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\api.runtimeconfig.json
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\api.pdb
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

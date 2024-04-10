@@ -31,3 +31,4 @@ D:\ProjectsEH\JunkProjects\FinShark\api\obj\Debug\net8.0\refint\api.dll
 D:\ProjectsEH\JunkProjects\FinShark\api\obj\Debug\net8.0\api.pdb
 D:\ProjectsEH\JunkProjects\FinShark\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\ProjectsEH\JunkProjects\FinShark\api\obj\Debug\net8.0\ref\api.dll
+D:\ProjectsEH\JunkProjects\FinShark\api\obj\Debug\net8.0\api.sourcelink.json
