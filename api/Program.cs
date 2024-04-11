@@ -27,7 +27,7 @@ if (!app.Environment.IsDevelopment())
 app.UseAuthentication();
 
 app.MapGet("/", () => "Hello ForwardedHeadersOptions!");
-app.MapGet("/Secret", () => "This is a secret");
+app.MapGet("/Secret", () => "This is a secret.");
 
 var summaries = new[]
 {
