@@ -1,2 +1,4 @@
 api/bin/
 api/obj/
+api/obj/Debug/net8.0/api.AssemblyInfo.cs
+api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
